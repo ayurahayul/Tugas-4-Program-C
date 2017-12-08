@@ -42,7 +42,7 @@ int main (){
 	printf("Dengan npm %s\n", npm);
 	printf("Ipk yang anda inginkan adalah %f\n", ipk);
 	printf("Nilai anda adalah %d\n", nilai);
-	printf("jenis kelamin anda adalah %c\n", kelamin);
+	printf("jenis kelamin anda adalah %s\n", kelamin);
 	printf("status pernikahan anda adalah %d\n", status);
 
 	
